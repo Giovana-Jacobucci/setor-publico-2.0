@@ -1,0 +1,15 @@
+.venv/
+.deps/
+.deps-backend/
+__pycache__/
+*.pyc
+.local_index/
+.index-build-*/
+.index-backup/
+.env
+documentos/*
+!documentos/.gitkeep
+sistema/backend/.venv/
+sistema/backend/db*.sqlite3
+sistema/frontend/node_modules/
+origem/
